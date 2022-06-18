@@ -1,2 +1,1 @@
-# static
-Static files for CDN
+https://cdn.jsdelivr.net/gh/pranavsense/static@latest/{type}/file.{type}
